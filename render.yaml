@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: recruitment-ai-agent
+    env: python
+    region: oregon
+    plan: free
+    branch: main
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+

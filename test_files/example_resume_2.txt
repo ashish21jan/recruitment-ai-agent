@@ -1,0 +1,104 @@
+SARAH MITCHELL
+Software Developer
+
+Email: sarah.mitchell@email.com
+Phone: (555) 987-6543
+Location: Oakland, CA
+LinkedIn: linkedin.com/in/sarahmitchell
+
+PROFESSIONAL SUMMARY
+Motivated Software Developer with 3 years of experience in web application development. Strong foundation in Python programming and database management. Eager to learn new technologies and contribute to innovative projects. Team player with good communication skills and a passion for problem-solving.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, JavaScript, HTML, CSS
+• Web Frameworks: Flask, Django
+• Databases: MySQL, SQLite
+• Tools: Git, Visual Studio Code
+• Methodologies: Agile, Scrum
+
+PROFESSIONAL EXPERIENCE
+
+Software Developer | WebDev Solutions | Oakland, CA
+January 2022 - Present (2 years)
+
+• Develop and maintain web applications using Python and Flask
+• Work with product team to implement new features based on user requirements
+• Write SQL queries for data retrieval and reporting
+• Participate in daily stand-ups and sprint planning meetings
+• Fix bugs and perform code maintenance on existing applications
+• Collaborate with QA team to ensure software quality
+
+Junior Developer | Digital Innovations | San Jose, CA
+July 2020 - December 2021 (1.5 years)
+
+• Assisted in developing company website using Django framework
+• Created basic CRUD operations for database management
+• Wrote documentation for internal tools and processes
+• Participated in team code reviews
+• Helped with testing and bug fixing
+
+Intern - Software Development | TechStart Labs | San Francisco, CA
+Summer 2019 (3 months)
+
+• Learned web development fundamentals
+• Contributed to small features under supervision
+• Gained exposure to agile development processes
+
+EDUCATION
+
+Bachelor of Science in Information Technology
+San Jose State University | Graduated 2020
+GPA: 3.5/4.0
+
+Relevant Coursework:
+• Web Development
+• Database Management Systems
+• Data Structures and Algorithms
+• Software Engineering Principles
+
+ACADEMIC PROJECTS
+
+Student Management System
+• Built a web-based student management system using Python Flask and MySQL
+• Implemented user authentication and basic CRUD operations
+
+Personal Blog Application
+• Created a blogging platform with user registration and post management
+• Technologies: Python, Django, SQLite
+
+CERTIFICATIONS
+• Python for Everybody Specialization (Coursera)
+• Introduction to Web Development (Udemy)
+
+ADDITIONAL EXPERIENCE
+
+Volunteer Web Developer | Local Non-Profit Organization
+• Built and maintain website for local community organization
+• Provide technical support and updates as needed
+
+SKILLS SUMMARY
+• Good understanding of Python programming fundamentals
+• Experience with Flask and Django web frameworks
+• Basic knowledge of front-end development (HTML, CSS, JavaScript)
+• Familiar with MySQL database operations
+• Understanding of version control using Git
+• Good problem-solving abilities
+• Strong willingness to learn new technologies
+
+PROFESSIONAL DEVELOPMENT
+• Regularly complete online courses to improve technical skills
+• Attend local meetups when available
+• Follow tech blogs and stay updated with industry trends
+
+INTERESTS
+• Web Development
+• Learning New Programming Languages
+• Contributing to Open Source (beginner level)
+• Technology News and Trends
+
+REFERENCES
+Available upon request
+
+NOTE: While I have a solid foundation in Python and web development, I am actively working to expand my skills in areas like cloud platforms (AWS/GCP), advanced API development, containerization (Docker), and modern DevOps practices. I am a quick learner and excited about opportunities to grow in these areas.
+
+

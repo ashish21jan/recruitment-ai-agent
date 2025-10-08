@@ -1,0 +1,66 @@
+SENIOR SOFTWARE ENGINEER
+TechCorp Inc.
+Full-time | San Francisco, CA | Technology Industry
+
+ABOUT TECHCORP INC.
+TechCorp Inc. is a leading technology company specializing in cloud-based solutions and enterprise software. We are committed to innovation and excellence, serving clients across various industries worldwide.
+
+JOB DESCRIPTION
+We are seeking a highly skilled Senior Software Engineer to join our dynamic development team. The ideal candidate will have a strong background in full-stack development, cloud technologies, and a passion for building scalable applications.
+
+YEARS OF EXPERIENCE REQUIRED
+5+ years of professional software development experience
+
+KEY RESPONSIBILITIES
+• Design, develop, and maintain scalable web applications using modern frameworks
+• Collaborate with cross-functional teams to define and implement new features
+• Write clean, maintainable, and well-documented code
+• Participate in code reviews and provide constructive feedback to team members
+• Optimize application performance and ensure high availability
+• Mentor junior developers and contribute to team knowledge sharing
+• Implement and maintain CI/CD pipelines
+
+REQUIRED QUALIFICATIONS AND SKILLS
+• Bachelor's degree in Computer Science or related field
+• 5+ years of experience in software development
+• Strong proficiency in Python and at least one other programming language (Java, JavaScript, Go)
+• Experience with FastAPI, Django, or Flask frameworks
+• Solid understanding of RESTful API design and microservices architecture
+• Proficiency with SQL and NoSQL databases (PostgreSQL, MongoDB)
+• Experience with cloud platforms (AWS, Google Cloud, or Azure)
+• Strong knowledge of version control systems (Git)
+• Excellent problem-solving and analytical skills
+• Strong communication and collaboration abilities
+
+MUST-HAVE SKILLS
+• Python
+• FastAPI or similar web frameworks
+• RESTful API development
+• AWS or Google Cloud Platform
+• Docker and containerization
+• Git version control
+• PostgreSQL or similar databases
+• Agile/Scrum methodologies
+
+PREFERRED QUALIFICATIONS
+• Experience with React or Vue.js for frontend development
+• Knowledge of Kubernetes and container orchestration
+• Experience with machine learning or AI integration
+• Familiarity with CI/CD tools (Jenkins, GitHub Actions)
+• Previous experience in a senior or lead role
+• Open source contributions
+
+WHAT WE OFFER
+• Competitive salary and equity options
+• Comprehensive health, dental, and vision insurance
+• Flexible work arrangements and remote work options
+• Professional development opportunities
+• Collaborative and innovative work environment
+• Modern office with state-of-the-art equipment
+
+TO APPLY
+Please submit your resume and cover letter through our application portal. We look forward to hearing from you!
+
+TechCorp Inc. is an equal opportunity employer committed to building a diverse and inclusive team.
+
+

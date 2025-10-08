@@ -1,0 +1,92 @@
+============================================================
+🤖 RECRUITMENT AI AGENT - QUICK START INSTRUCTIONS
+============================================================
+
+STEP 1: Install Dependencies
+------------------------------------------------------------
+Open a terminal in this directory and run:
+
+    pip install -r requirements.txt
+
+
+STEP 2: Get Your Gemini API Key
+------------------------------------------------------------
+1. Visit: https://makersuite.google.com/app/apikey
+2. Sign in with your Google account
+3. Click "Create API Key"
+4. Copy the generated key
+
+
+STEP 3: Configure API Key
+------------------------------------------------------------
+Option A - Automatic Setup (Recommended):
+    python setup.py
+    
+Then edit the .env file and replace "your_gemini_api_key_here" 
+with your actual API key.
+
+Option B - Manual Setup:
+    1. Create a file named ".env" (no other extension)
+    2. Add this line:
+       GEMINI_API_KEY=paste_your_actual_key_here
+
+
+STEP 4: Start the Server
+------------------------------------------------------------
+Run this command:
+
+    uvicorn main:app --reload
+
+You should see: "Uvicorn running on http://127.0.0.1:8000"
+
+
+STEP 5: Open the Application
+------------------------------------------------------------
+Open your web browser and go to:
+
+    http://localhost:8000
+
+
+STEP 6: Test the Application
+------------------------------------------------------------
+Use the sample files in the test_files/ folder:
+- example_jd.txt (job description)
+- example_resume_1.txt (strong candidate)
+- example_resume_2.txt (moderate candidate)
+
+If you ran "python setup.py", PDF versions are also available.
+
+
+TROUBLESHOOTING
+------------------------------------------------------------
+Problem: "GEMINI_API_KEY environment variable is not set"
+Solution: Make sure you created the .env file with your API key
+
+Problem: Port already in use
+Solution: Use a different port: 
+         uvicorn main:app --reload --port 8001
+
+Problem: Module not found
+Solution: Reinstall dependencies:
+         pip install -r requirements.txt
+
+
+HELPFUL COMMANDS
+------------------------------------------------------------
+Start server:           uvicorn main:app --reload
+Stop server:            Press CTRL+C
+View API docs:          http://localhost:8000/docs
+Check if server runs:   python main.py
+
+
+NEED MORE HELP?
+------------------------------------------------------------
+See SETUP_GUIDE.md for detailed instructions
+See README.md for complete documentation
+
+
+============================================================
+Happy Recruiting! 🎯
+============================================================
+
+
