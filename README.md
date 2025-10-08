@@ -39,7 +39,7 @@ Create an end-to-end recruitment solution that:
 ## 🛠️ Technology Stack
 
 - **Backend**: Python 3.8+, FastAPI
-- **AI/LLM**: Google Gemini API (gemini-1.5-pro)
+- **AI/LLM**: Google Gemini API (gemini-2.5-flash)
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
 - **Templating**: Jinja2
 - **File Processing**: pypdf (PDF), python-docx (DOCX)
